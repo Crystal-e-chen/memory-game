@@ -1,2 +1,2 @@
 # It's shared homework for XXXX
-# Please open the index.html for test
+Please open the index.html for test
