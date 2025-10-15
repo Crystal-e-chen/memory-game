@@ -2,6 +2,12 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 20px;
+  /* 背景圖片設定 */
+  background-image: url("bg.png"); 
+   background-size: cover;       /* 讓圖片填滿整個畫面 */
+  background-position: center;  /* 置中顯示 */
+  background-attachment: fixed; /* 捲動時背景不動 */
+
 }
 h1 {
   margin-bottom: 20px;
@@ -14,7 +20,7 @@ h1 {
   margin: 0 auto;
 }
 .card {
-  background-color: #4CAF50;
+  background-color: #967a50;
   color: transparent;
   width: 100px;
   height: 100px;
