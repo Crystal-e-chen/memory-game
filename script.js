@@ -53,4 +53,4 @@ gameBoard.addEventListener('click', function(e) {
       }, 1000);
     }
   }
-});
+})
